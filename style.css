@@ -1,0 +1,37 @@
+#header{
+  width: auto;
+  border: 5px solid ;
+  margin: 20px;
+  text-align: center;
+}
+#obj{
+    width: auto;
+    border: 5px solid ;
+    margin: 20px;
+
+}
+#par{
+    text-align: justify;
+    margin-left: 25px;
+
+}
+#edu{
+    border: 5px solid ;
+    margin: 20px;
+
+}  
+.ug{
+    margin-left: 25px;
+}
+.con{
+    margin-left: 45px;
+
+}
+
+.div{
+    border: 5px solid ;
+    margin: 20px;
+    
+
+}
+
