@@ -3,6 +3,7 @@
   border: 5px solid ;
   margin: 20px;
   text-align: center;
+  
 }
 #obj{
     width: auto;
@@ -31,7 +32,17 @@
 .div{
     border: 5px solid ;
     margin: 20px;
-    
+    ;
 
 }
+footer{
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: #45a1ff;
+  color: black;
+}
 
+*{
+    background-color: #C5BAFF;
+}
